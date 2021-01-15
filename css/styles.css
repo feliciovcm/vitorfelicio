@@ -1,0 +1,166 @@
+h1 {
+  font-family: 'Great Vibes', cursive;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Merriweather', serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-family: 'Merriweather', serif;
+  color: #11999E;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+p {
+  font-size: 1rem;
+  color: #40514e;
+  font-weight: bolder;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+hr {
+  border: none;
+  border-top: 7px dotted #eaf6f6;
+  width: 5%;
+  margin: 100px auto;
+}
+
+/*******************************CLASS ELEMENTS********************************/
+.top-web-developer {
+  font-weight: normal;
+}
+
+.top-text {
+  width: 43.5%;
+  margin: auto;
+}
+
+.game {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.Webdevelopment {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.web {
+  text-decoration: overline;
+}
+
+.profile-image {
+  height: 200px;
+  width: 200px;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #eaf6f6;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 375.5px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 375.5px;
+  top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.middle-container {
+  margin-top: 70px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  line-height: 2;
+  padding: 30px 0;
+  margin-top: 60px;
+}
+
+.footer-link {
+  padding-right: 50px;
+}
+
+.foot-text {
+  color: #eaf6f6;
+}
+
+.contact-me {
+  line-height: 2;
+}
+
+.bottom-p {
+
+  width: 45%;
+  margin: 0 auto 50px;
+}
+
+.btn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 20px;
+  padding: 3px;
+  border: none;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: solid #337FED 1px;
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2CB4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2CB4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2CB4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2CB4AD);
+  background-image: -webkit-gradient(to bottom, #30E3CB, #2CB4AD);
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  text-decoration: none;
+}
